@@ -16,8 +16,8 @@
             src="https://img.shields.io/badge/Email-victor.nivelo%40unl.edu.ec-blue?style=flat-square&logo=gmail"></a>
     <a href="https://github.com/VictorNivelo"><img
             src="https://img.shields.io/badge/GitHub-VictorNivelo-black?style=flat-square&logo=github"></a>
-    <a href="https://www.linkedin.com/in/victornivelo"><img
-            src="https://img.shields.io/badge/LinkedIn-victornivelo-blue?style=flat-square&logo=linkedin"></a>
+    <!-- <a href="https://www.linkedin.com/in/victornivelo"><img
+            src="https://img.shields.io/badge/LinkedIn-victornivelo-blue?style=flat-square&logo=linkedin"></a> -->
 </p>
 
 
