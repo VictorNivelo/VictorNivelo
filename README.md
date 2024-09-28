@@ -27,7 +27,7 @@
     y la innovación. Constantemente en busca de nuevos desafíos y oportunidades para crecer profesionalmente.
 </p>
 
-## 🛠️ Tecnologías y Herramientas
+<h2>🛠️ Tecnologías y Herramientas</h2>
 
 <h3 align="center">Lenguajes de Programación</h3>
 <p align="center">
@@ -55,6 +55,10 @@
         alt="JavaScript" width="40" height="40" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        alt="Bootstrap" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="Bootstrap" />
 </p>
 
 <h3 align="center">Frameworks</h3>
@@ -79,6 +83,31 @@
         alt="PostgreSQL" width="40" height="40" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="PostgreSQL" />
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
+        alt="SQLite" />
+</p>
+
+<h3 align="center">Herramientas y Plataformas</h3>
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"
+        width="40" height="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"
+        width="40" height="40" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+        alt="VS Code" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"
+        alt="NetBeans" width="40" height="40" />
+    <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"
+        alt="NetBeans" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"
+        alt="PyCharm" width="40" height="40" />
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"
+        alt="PyCharm" />
 </p>
 
 ## 📊 Estadísticas de GitHub
@@ -89,8 +118,10 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNivelo&layout=compact&theme=nord&hide_border=true&locale=es"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNivelo&layout=compact&theme=nord&hide_border=true&locale=es&langs_count=10"
         alt="Lenguajes más utilizados" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNivelo&layout=compact&theme=nord&hide_border=true&locale=es"
+        alt="Lenguajes más utilizados" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorNivelo&theme=nord&hide_border=true&locale=es"
         alt="Racha de GitHub" />
 </p>
@@ -119,7 +150,7 @@
 
 ¿Interesado en colaborar o discutir oportunidades? No dudes en contactarme:
 
-- 📧 Email: [victor.nivelo@unl.edu.ec](mailto:victor.nivelo@unl.edu.ec)
+- 📧 Email: [VictorNivelo](mailto:victor.nivelo@unl.edu.ec)
 - 🐱 GitHub: [@VictorNivelo](https://github.com/VictorNivelo)
 <!-- - 💼 LinkedIn: [victornivelo](https://www.linkedin.com/in/victornivelo) -->
 
