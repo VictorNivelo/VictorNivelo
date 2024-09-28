@@ -146,12 +146,25 @@
     </a>
 </p>
 
-## 📫 Información de contacto
+<h2>📫 Información de Contacto</h2>
 
-¿Interesado en colaborar o discutir oportunidades? No dudes en contactarme:
+<p align="center">
+    ¿Interesado en colaborar o discutir oportunidades? No dudes en contactarme:
+</p>
 
-- 📧 Email: [VictorNivelo](mailto:victor.nivelo@unl.edu.ec)
-- 🐱 GitHub: [@VictorNivelo](https://github.com/VictorNivelo)
+<p align="center">
+    <a href="mailto:victor.nivelo@unl.edu.ec">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/VictorNivelo">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+            alt="GitHub">
+    </a>
+    <a href="https://www.paypal.me/victornivelo">
+        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
+            alt="PayPal">
+    </a>
+</p>
 <!-- - 💼 LinkedIn: [victornivelo](https://www.linkedin.com/in/victornivelo) -->
 
 
